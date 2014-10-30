@@ -1,0 +1,4 @@
+Slidify-Install
+===============
+
+Install Slidify
